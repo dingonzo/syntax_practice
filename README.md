@@ -1,4 +1,6 @@
 # python-syntax-practice
+[![Python Package using Conda](https://github.com/dingonzo/syntax_practice/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/dingonzo/syntax_practice/actions/workflows/python-package-conda.yml)
+#
 This script serves as an introductory exercise to Python programming, covering the essential building blocks of the language. It demonstrates how to store, manipulate, and organize data using standard programming conventions.
 
 # Variable Initialization: Storing different types of data (integers, floats, strings, and booleans) in named memory locations.
